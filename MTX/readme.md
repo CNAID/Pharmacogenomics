@@ -1,1 +1,2 @@
+* Solute Carrier Family 19 Member 1 (SLC19A1) rs1051266, Solute Carrier Organic Anion Transporter Family Member 1B1 (SLCO1B1) rs2306283, Thymidylate Synthase (TYMS), and Adenosine Monophosphate Deaminase 1 (AMPD1) rs17602729. It correctly classified 69% of Slovenian patients as responders or nonresponders and explained 30% of variability in DAS28 after 6 months of MTX monotherapy.
 
